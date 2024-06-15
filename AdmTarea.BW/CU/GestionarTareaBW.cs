@@ -1,9 +1,10 @@
-﻿using AdmTarea.BC.Modelos;
+using AdmTarea.BC.Modelos;
 using AdmTarea.BC.ReglasDeNegocio;
 using AdmTarea.BW.Interfaces.BW;
 using AdmTarea.BW.Interfaces.DA;
 namespace AdmTarea.BW.CU
-{
+
+{ 
     public class GestionarTareaBW : IGestionarTareaBW
     {
         private readonly IGestionarTareaDA gestionarTareaDA;
