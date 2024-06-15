@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.da\\entidades\\fotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\entidades\\fotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.bc\\modelos\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|solutionrelative:admtarea.bc\\modelos\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.bc\\reglasdenegocio\\reglasfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|solutionrelative:admtarea.bc\\reglasdenegocio\\reglasfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.bc\\reglasdenegocio\\reglastarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|solutionrelative:admtarea.bc\\reglasdenegocio\\reglastarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.bw\\interfaces\\bw\\igestionarfotobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\bw\\igestionarfotobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.bw\\interfaces\\bw\\igestionartareabw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\bw\\igestionartareabw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.bw\\interfaces\\da\\igestionarfotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\da\\igestionarfotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.bw\\interfaces\\da\\igestionartareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\da\\igestionartareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.da\\acciones\\gestionarfotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\acciones\\gestionarfotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.da\\acciones\\gestionartareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\acciones\\gestionartareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.da\\contexto\\admtareacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\contexto\\admtareacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.da\\contexto\\fotocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\contexto\\fotocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.da\\entidades\\tareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\entidades\\tareada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.api\\controllers\\fotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\controllers\\fotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.api\\dtos\\fotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\dtos\\fotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.api\\utilitarios\\fotodtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\utilitarios\\fotodtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.api\\utilitarios\\tareadtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\utilitarios\\tareadtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.api\\admtarea.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\admtarea.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.bc\\modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|solutionrelative:admtarea.bc\\modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.bw\\cu\\gestionartareabw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\cu\\gestionartareabw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.api\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.api\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.bw\\cu\\gestionarfotobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\cu\\gestionarfotobw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.api\\admtarea.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\admtarea.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\xpc\\documents\\github\\examen-lenguajes\\admtarea.api\\admtarea.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\admtarea.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GestionarTareaDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Acciones\\GestionarTareaDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Acciones\\GestionarTareaDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Acciones\\GestionarTareaDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Acciones\\GestionarTareaDA.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:44:00.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestionarFotoDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Acciones\\GestionarFotoDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Acciones\\GestionarFotoDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Acciones\\GestionarFotoDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Acciones\\GestionarFotoDA.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:53:10.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGestionarTareaDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\Interfaces\\DA\\IGestionarTareaDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\DA\\IGestionarTareaDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\Interfaces\\DA\\IGestionarTareaDA.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\DA\\IGestionarTareaDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:56:39.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGestionarFotoDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\Interfaces\\DA\\IGestionarFotoDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\DA\\IGestionarFotoDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\Interfaces\\DA\\IGestionarFotoDA.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\DA\\IGestionarFotoDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:58:09.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGestionarTareaBW.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\Interfaces\\BW\\IGestionarTareaBW.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\BW\\IGestionarTareaBW.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\Interfaces\\BW\\IGestionarTareaBW.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\BW\\IGestionarTareaBW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:56:41.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGestionarFotoBW.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\Interfaces\\BW\\IGestionarFotoBW.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\BW\\IGestionarFotoBW.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\Interfaces\\BW\\IGestionarFotoBW.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\BW\\IGestionarFotoBW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:58:21.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReglasTarea.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BC\\ReglasDeNegocio\\ReglasTarea.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BC\\ReglasDeNegocio\\ReglasTarea.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BC\\ReglasDeNegocio\\ReglasTarea.cs",
+              "RelativeToolTip": "AdmTarea.BC\\ReglasDeNegocio\\ReglasTarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:57:49.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReglasFoto.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BC\\ReglasDeNegocio\\ReglasFoto.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BC\\ReglasDeNegocio\\ReglasFoto.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BC\\ReglasDeNegocio\\ReglasFoto.cs",
+              "RelativeToolTip": "AdmTarea.BC\\ReglasDeNegocio\\ReglasFoto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:09:05.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Foto.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BC\\Modelos\\Foto.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BC\\Modelos\\Foto.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BC\\Modelos\\Foto.cs",
+              "RelativeToolTip": "AdmTarea.BC\\Modelos\\Foto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:57:09.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FotoDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Entidades\\FotoDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Entidades\\FotoDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Entidades\\FotoDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Entidades\\FotoDA.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:46:13.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdmTareaContext.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Contexto\\AdmTareaContext.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Contexto\\AdmTareaContext.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Contexto\\AdmTareaContext.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Contexto\\AdmTareaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:43:54.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FotoContext.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Contexto\\FotoContext.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Contexto\\FotoContext.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Contexto\\FotoContext.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Contexto\\FotoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:51:00.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TareaDA.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Entidades\\TareaDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Entidades\\TareaDA.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\Entidades\\TareaDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Entidades\\TareaDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:43:51.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FotoController.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\Controllers\\FotoController.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Controllers\\FotoController.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\Controllers\\FotoController.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Controllers\\FotoController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA0wDgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:24:45.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FotoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\DTOs\\FotoDTO.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\DTOs\\FotoDTO.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\DTOs\\FotoDTO.cs",
+              "RelativeToolTip": "AdmTarea.Api\\DTOs\\FotoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:22:34.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FotoDTOMapper.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\Utilitarios\\FotoDTOMapper.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Utilitarios\\FotoDTOMapper.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\Utilitarios\\FotoDTOMapper.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Utilitarios\\FotoDTOMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:23:26.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TareaDTOMapper.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\Utilitarios\\TareaDTOMapper.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Utilitarios\\TareaDTOMapper.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\Utilitarios\\TareaDTOMapper.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Utilitarios\\TareaDTOMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:23:06.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdmTarea.Api.http",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\AdmTarea.Api.http",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\AdmTarea.Api.http",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\AdmTarea.Api.http",
+              "RelativeToolTip": "AdmTarea.Api\\AdmTarea.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-15T22:18:32.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GestionarTareaBW.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\CU\\GestionarTareaBW.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\CU\\GestionarTareaBW.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\CU\\GestionarTareaBW.cs",
+              "RelativeToolTip": "AdmTarea.BW\\CU\\GestionarTareaBW.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:57:51.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BC\\Modelos\\Tarea.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BC\\Modelos\\Tarea.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BC\\Modelos\\Tarea.cs",
+              "RelativeToolTip": "AdmTarea.BC\\Modelos\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:56:50.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\Program.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:45:04.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GestionarFotoBW.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\CU\\GestionarFotoBW.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\CU\\GestionarFotoBW.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\CU\\GestionarFotoBW.cs",
+              "RelativeToolTip": "AdmTarea.BW\\CU\\GestionarFotoBW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:09:20.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Controllers\\TareaController.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Controllers\\TareaController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:01:55.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TareaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\DTOs\\TareaDTO.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\DTOs\\TareaDTO.cs",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\DTOs\\TareaDTO.cs",
+              "RelativeToolTip": "AdmTarea.Api\\DTOs\\TareaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:22:35.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdmTarea.Api",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\AdmTarea.Api.csproj",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\AdmTarea.Api.csproj",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\AdmTarea.Api.csproj",
+              "RelativeToolTip": "AdmTarea.Api\\AdmTarea.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T20:43:09.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdmTarea.Api",
+              "DocumentMoniker": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\AdmTarea.Api.csproj",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\AdmTarea.Api.csproj",
+              "ToolTip": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\AdmTarea.Api.csproj",
+              "RelativeToolTip": "AdmTarea.Api\\AdmTarea.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T19:01:48.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

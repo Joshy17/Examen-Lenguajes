@@ -7,6 +7,18 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configuración de CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        builder =>
+        {
+            builder.AllowAnyOrigin()
+                   .AllowAnyMethod()
+                   .AllowAnyHeader();
+        });
+});
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -19,11 +31,22 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<IGestionarTareaBW, GestionarTareaBW>();
 builder.Services.AddTransient<IGestionarTareaDA, GestionarTareaDA>();
 
+builder.Services.AddTransient<IGestionarFotoBW, GestionarFotoBW>();
+builder.Services.AddTransient<IGestionarFotoDA, GestionarFotoDA>();
+
 //Conexión a BD
 builder.Services.AddDbContext<AdmTareaContext>(options =>
 {
     // Usar la cadena de conexión desde la configuración
-    var connectionString = "Server=tcp:163.178.107.10;Initial Catalog=AdmTarea_C14704;Persist Security Info=False;User Id=laboratorios;Password=TUy&)&nfC7QqQau.%278UQ24/=%;TrustServerCertificate=True";
+    var connectionString = "Server=tcp:163.178.107.10;Initial Catalog=FotosC16960;Persist Security Info=False;User Id=laboratorios;Password=TUy&)&nfC7QqQau.%278UQ24/=%;TrustServerCertificate=True";
+    options.UseSqlServer(connectionString);
+    // Otros ajustes del contexto de base de datos pueden ser configurados aquí, si es necesario
+});
+
+builder.Services.AddDbContext<FotoContext>(options =>
+{
+    // Usar la cadena de conexión desde la configuración
+    var connectionString = "Server=tcp:163.178.107.10;Initial Catalog=FotosC16960;Persist Security Info=False;User Id=laboratorios;Password=TUy&)&nfC7QqQau.%278UQ24/=%;TrustServerCertificate=True";
     options.UseSqlServer(connectionString);
     // Otros ajustes del contexto de base de datos pueden ser configurados aquí, si es necesario
 });
@@ -31,12 +54,21 @@ builder.Services.AddDbContext<AdmTareaContext>(options =>
 
 var app = builder.Build();
 
+// Aplicar la política de CORS
+app.UseCors("AllowAll");
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseDefaultFiles();
+
+app.UseStaticFiles();
+
+app.UseHttpsRedirection();
 
 app.UseAuthorization();
 

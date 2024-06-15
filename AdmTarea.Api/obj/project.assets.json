@@ -3273,19 +3273,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diego\\.nuget\\packages\\": {}
+    "C:\\Users\\XPC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\Downloads\\AdmTarea\\AdmTarea\\AdmTarea.Api\\AdmTarea.Api.csproj",
+      "projectUniqueName": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\AdmTarea.Api.csproj",
       "projectName": "AdmTarea.Api",
-      "projectPath": "C:\\Users\\diego\\Downloads\\AdmTarea\\AdmTarea\\AdmTarea.Api\\AdmTarea.Api.csproj",
-      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\Downloads\\AdmTarea\\AdmTarea\\AdmTarea.Api\\obj\\",
+      "projectPath": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\AdmTarea.Api.csproj",
+      "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3293,23 +3293,24 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\diego\\Downloads\\AdmTarea\\AdmTarea\\AdmTarea.BC\\AdmTarea.BC.csproj": {
-              "projectPath": "C:\\Users\\diego\\Downloads\\AdmTarea\\AdmTarea\\AdmTarea.BC\\AdmTarea.BC.csproj"
+            "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BC\\AdmTarea.BC.csproj": {
+              "projectPath": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BC\\AdmTarea.BC.csproj"
             },
-            "C:\\Users\\diego\\Downloads\\AdmTarea\\AdmTarea\\AdmTarea.BW\\AdmTarea.BW.csproj": {
-              "projectPath": "C:\\Users\\diego\\Downloads\\AdmTarea\\AdmTarea\\AdmTarea.BW\\AdmTarea.BW.csproj"
+            "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\AdmTarea.BW.csproj": {
+              "projectPath": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.BW\\AdmTarea.BW.csproj"
             },
-            "C:\\Users\\diego\\Downloads\\AdmTarea\\AdmTarea\\AdmTarea.DA\\AdmTarea.DA.csproj": {
-              "projectPath": "C:\\Users\\diego\\Downloads\\AdmTarea\\AdmTarea\\AdmTarea.DA\\AdmTarea.DA.csproj"
+            "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\AdmTarea.DA.csproj": {
+              "projectPath": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.DA\\AdmTarea.DA.csproj"
             },
-            "C:\\Users\\diego\\Downloads\\AdmTarea\\AdmTarea\\AdmTarea.SG\\AdmTarea.SG.csproj": {
-              "projectPath": "C:\\Users\\diego\\Downloads\\AdmTarea\\AdmTarea\\AdmTarea.SG\\AdmTarea.SG.csproj"
+            "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.SG\\AdmTarea.SG.csproj": {
+              "projectPath": "C:\\Users\\XPC\\Documents\\GitHub\\Examen-Lenguajes\\AdmTarea.SG\\AdmTarea.SG.csproj"
             }
           }
         }
@@ -3365,7 +3366,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

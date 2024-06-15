@@ -31,3 +31,15 @@ C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea
 C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\refint\AdmTarea.BC.dll
 C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.pdb
 C:\Users\diego\Downloads\AdmTarea\AdmTarea\AdmTarea.BC\obj\Debug\net8.0\ref\AdmTarea.BC.dll
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.deps.json
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.dll
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\bin\Debug\net8.0\AdmTarea.BC.pdb
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.AssemblyInfoInputs.cache
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.AssemblyInfo.cs
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.csproj.CoreCompileInputs.cache
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.sourcelink.json
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.dll
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\obj\Debug\net8.0\refint\AdmTarea.BC.dll
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\obj\Debug\net8.0\AdmTarea.BC.pdb
+C:\Users\XPC\Documents\GitHub\Examen-Lenguajes\AdmTarea.BC\obj\Debug\net8.0\ref\AdmTarea.BC.dll

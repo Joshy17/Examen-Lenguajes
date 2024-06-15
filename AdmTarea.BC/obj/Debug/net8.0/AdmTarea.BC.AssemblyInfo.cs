@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdmTarea.BC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ca7a4951dfb4a5ddee17b46605dab863cc7304c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdmTarea.BC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdmTarea.BC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
